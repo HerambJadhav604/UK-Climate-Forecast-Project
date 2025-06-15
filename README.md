@@ -31,7 +31,7 @@ This project analyzes historical UK weather data and forecasts future climate tr
 
 ## 📊 Sample Visualization
 
-![Climate Forecast Dashboard](Dashboard/UK_Climate_Forecast_Dashboard_Screenshot.png)
+![Climate Forecast Dashboard](Dashboard/UK_Climate_Forecast_Dashboard.jpg)
 > *Dashboard shows trend anomalies and forecasted climate change indicators*
 
 ---
