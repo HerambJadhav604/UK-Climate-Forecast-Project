@@ -38,27 +38,36 @@ This project analyzes historical UK weather data and forecasts future climate tr
 
 ## ⚙️ How to Run
 
-1. **Clone this repository**  
+1. **Clone this repository**
+
    ```bash
    git clone https://github.com/HerambJadhav604/UK-Climate-Forecast-Project.git
    cd UK-Climate-Forecast-Project
-Install required libraries
+   ```
 
-bash
-Copy
-Edit
-pip install pandas matplotlib statsmodels prophet
-Run the notebook
+2. **Install required libraries**
 
-bash
-Copy
-Edit
-jupyter notebook "Climate change.ipynb"
-✅ Requires Python 3.7+, Jupyter Notebook, and Prophet installed
+   ```bash
+   pip install pandas matplotlib statsmodels prophet
+   ```
 
-📄 License
-This project is licensed under the MIT License.
+3. **Run the notebook**
 
-🙋‍♂️ Author
-Heramb Jadhav
-GitHub: HerambJadhav604
+   ```bash
+   jupyter notebook "Climate change.ipynb"
+   ```
+
+> ✅ Requires Python 3.7+, Jupyter Notebook, and Prophet installed
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
+---
+
+## 🙋‍♂️ Author
+
+**Heramb Jadhav**  
+GitHub: [HerambJadhav604](https://github.com/HerambJadhav604)
