@@ -1,0 +1,3 @@
+Variable,Slope (per yr),p-value,R²,Trend Summary
+Annual Mean Temp (°C),0.044,0.0,0.453,Significant warming trend
+Annual Total Rainfall (mm),0.649,0.7132,0.004,No statistically significant trend
