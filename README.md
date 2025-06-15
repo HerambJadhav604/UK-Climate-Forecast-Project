@@ -31,8 +31,8 @@ This project analyzes historical UK weather data and forecasts future climate tr
 
 ## 📊 Sample Visualization
 
-![Climate Forecast Dashboard](Dashboard/UK_Climate_Forecast_Dashboard.jpg)
-> *Dashboard shows trend anomalies and forecasted climate change indicators*
+![Climate Forecast Dashboard](Dashboard/UK_Climate_Forecast_Dashboard.jpg)  
+*Dashboard shows trend anomalies and forecasted climate indicators*
 
 ---
 
@@ -42,7 +42,7 @@ This project analyzes historical UK weather data and forecasts future climate tr
    ```bash
    git clone https://github.com/HerambJadhav604/UK-Climate-Forecast-Project.git
    cd UK-Climate-Forecast-Project
-Install the required libraries
+Install required libraries
 
 bash
 Copy
@@ -54,7 +54,7 @@ bash
 Copy
 Edit
 jupyter notebook "Climate change.ipynb"
-📌 Requires Python 3.7+, Jupyter, and Prophet installed.
+✅ Requires Python 3.7+, Jupyter Notebook, and Prophet installed
 
 📄 License
 This project is licensed under the MIT License.
@@ -62,4 +62,3 @@ This project is licensed under the MIT License.
 🙋‍♂️ Author
 Heramb Jadhav
 GitHub: HerambJadhav604
-
